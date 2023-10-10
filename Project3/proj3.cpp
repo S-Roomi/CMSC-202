@@ -1,9 +1,3 @@
-// Title: proj3.h
-// Author: Jeremy Dixon
-// Date: 3/14/2023
-// Description: This is part of the Transcription and Translation Project in
-// CMSC 202 @ UMBC
-
 #include "Sequencer.h"
 #include "Strand.h"
 #include <iostream>
