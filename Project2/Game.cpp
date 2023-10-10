@@ -5,12 +5,6 @@
 ***************************************************************/
 
 
-
-/*
-Shop m_myShop; //Player's Shop for the game
-Ingredient m_ingredients[PROJ2_SIZE]; //All ingredients in the game (loaded from file)
-*/
-
 //Constructor
 Game::Game(){
     //Create a string to store the player's name
