@@ -1,8 +1,3 @@
-//Title: Project 2 for Spring 2023
-//Author: Sina Roomi
-//Date: 3/10/2023
-//Description: This is main for project 2
-
 #include "Game.h"
 #include <iostream>
 #include <cstdlib>
