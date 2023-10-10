@@ -1,8 +1,3 @@
-//Title: Game.h
-//Author: Jeremy Dixon, edited by Gabe Doersam
-//Date: 2/10/2023
-//Description: This is part of the PotionCraft Project in CMSC 202 @ UMBC
-
 #ifndef GAME_H //Header Guard
 #define GAME_H //Header Guard
 #include <fstream>
@@ -13,10 +8,8 @@
 
 using namespace std;
 
-//Constants (Do not edit)
 const string PROJ2_DATA = "proj2_data.txt"; //File constant
 
-//No additional variables or functions allowed
 class Game{
 public:
   // Name - Game() Default Constructor
@@ -69,7 +62,6 @@ public:
   int SearchRecipes(string item1, string item2);
   // Name: GameTitle()
   // Desc - Title for Game (Do not edit)
-  // Do NOT copy to Game.cpp (use this version)
   // Preconditions - None
   // Postconditions - None
   void GameTitle(){
