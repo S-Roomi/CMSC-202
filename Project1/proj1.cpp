@@ -1,19 +1,3 @@
-/*****************************************
-** File: Proj1.cpp
-** Project: CMSC 202 Project 1, Spring 2023
-** Author: Sina Roomi
-** Date: 2/27/2023
-** Section: 
-** E-mail: sinar1@umbc.edu
-**
-** This file contains the main driver program for Project 1.
-** This program reads the file specified as the first command
-** line argument, counts the number of words, spaces, and
-** characters, and displays the results in the format specified
-** in the project description.
-**
-**
-***********************************************/
 #include <iostream>
 #include <ctime>
 #include <iomanip>
