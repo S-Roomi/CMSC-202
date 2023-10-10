@@ -1,10 +1,3 @@
-//Title: Shop.h
-//Author: Jeremy Dixon, edited by Gabe Doersam
-//Date: 2/10/23
-//Description: This is part of the PotionCraft Project in CMSC 202 @ UMBC
-
-// The Shop class should have no cout statements
-
 #ifndef SHOP_H //Include/Header Guard
 #define SHOP_H //Include/Header Guard
 
@@ -15,7 +8,7 @@
 #include <iomanip>
 using namespace std;
 
-//Constants (Do not edit)
+
 const int PROJ2_SIZE = 32;
 const int RANK_D = 30;
 const int RANK_C = 50;
@@ -23,7 +16,7 @@ const int RANK_B = 70;
 const int RANK_A = 90;
 const int RANK_S = 100;
 
-// Class Declaration (Do not edit)
+
 class Shop{
  public:
   // Name: Shop() - Default Constructor
