@@ -2,9 +2,6 @@
 #include "LL.cpp"
 using namespace std;
 
-//Comment out any tests that you don't want to run
-//Then run make LL_test then make valLL
-
 int main () {
   //Test 1 - Default Constructor and Push
   cout << "Test 1 - Default Constructor and Inserts" << endl;
