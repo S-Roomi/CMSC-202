@@ -1,11 +1,3 @@
-/***********************************************************
- ** File:    Basic.h
- ** Project: CMSC 202 - Project 4
- ** Author:  Jeremy Dixon
- ** Date     4/6/2023
- ** Section: N/A
- ** This file contains the header file of the Basic class
- **********************************************************/
 #ifndef BASIC_H_
 #define BASIC_H_
 
