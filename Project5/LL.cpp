@@ -4,7 +4,6 @@
 #include <cmath>
 using namespace std;
 
-// DO NOT ADD ANY CONSTANTS OR FUNCTIONS TO ANY CLASS
 
 // Templated Node class
 // Normal node except that each node can hold a pair <T,int>
@@ -127,8 +126,6 @@ private:
   Node<T> *m_head; // Node pointer for the head
   int m_size;      // Number of nodes in queue
 };
-//*****************************************************************
-// Implement LL here
 
 template <class T>
 LL<T>::LL()
