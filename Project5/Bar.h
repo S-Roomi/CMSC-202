@@ -10,8 +10,6 @@
 #include <map>
 using namespace std;
 
-//DO NOT ADD ANY ADDITIONAL CONSTANTS OR FUNCTIONS TO ANY CLASS
-
 //CONSTANTS
 const char barChar = '*';
 
